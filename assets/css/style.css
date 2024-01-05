@@ -681,7 +681,7 @@ main.drake-main {
 .left-sidebar > img.me {
     border-radius: 30px;
     display: block;
-    margin-bottom: 56px;
+    margin-bottom: 50px;
 }
 .left-sidebar .sidebar-header {
     margin-bottom: 65px;
@@ -1993,4 +1993,8 @@ body .body-overlay {
 
 .global-color .setting-toggle i {
     animation: rotating 3s infinite linear !important;
+}
+
+.pricing-table-items .pricing-table{
+    height: auto;
 }
